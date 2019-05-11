@@ -1,5 +1,5 @@
 """instalardo pip install flask
-pip install flask-socketio """
+pip install flask-socketio  """
 
 from flask import Flask, render_template
 from flask_socketio import SocketIO, send
